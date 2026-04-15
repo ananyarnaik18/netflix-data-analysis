@@ -1,0 +1,6 @@
+show_id,type,title,director,country,date_added,release_year,rating,listed_in
+s1,Movie,Movie A,Dir1,India,2021-01-01,2020,PG,Drama
+s2,TV Show,Show B,Dir2,USA,2021-02-01,2019,TV-MA,Comedy
+s3,Movie,Movie C,Dir3,India,2021-03-01,2021,PG-13,Action
+s4,TV Show,Show D,Dir4,UK,2021-04-01,2018,TV-14,Drama
+s5,Movie,Movie E,Dir5,India,2021-05-01,2022,R,Thriller
